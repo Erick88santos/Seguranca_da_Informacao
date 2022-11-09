@@ -1,3 +1,3 @@
 # ✅ **Hackeando com o Python**
 
-## 👽 Investigar e espionar pessoas.
+## 👽 Invest1g@r  e Esp!0N@r Pe$$0@s.
