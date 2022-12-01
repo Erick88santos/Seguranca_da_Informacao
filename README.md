@@ -1,3 +1,6 @@
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=%20DESENVOLVIDO&color=GREEN&style=for-the-badge)
+
+
 #  <div align="center"> ✅ Hackℓando com o Python </div> 
 
 
@@ -7,10 +10,10 @@
  
 </div>
 
-## 👽 Invℓst1g@r -  ℓsp!0N@r Pe$$0@s.
+## 👽 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=1&message=INVESTIGANDO%20E%20ESPIONANDO%20PESSOAS&color=#6559&style=for-the-badge)
 
-## 🐲 Preparando o Ambiente Virtual - Kali-Linux
+## 🐲 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=2&message=PREPARANDO%20O%20AMBIENTE%20VIRTUAL&color=#6559&style=for-the-badge) - Kali-Linux
 
-## 🎯 Estudando o Alvo
+## 🎯 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=3&message=ESTUDANDO%20O%20ALVO&color=#6559&style=for-the-badge)
 
-## 💀 ❌ 📶 wireless PenTest + Revisão
+## 📶 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=4&message=WIRELESS%20AND%20PENTEST%20REVISÃO&color=#6559&style=for-the-badge)
